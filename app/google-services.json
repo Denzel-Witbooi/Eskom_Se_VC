@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443955137791",
+    "project_id": "eskomsevc-ad47f",
+    "storage_bucket": "eskomsevc-ad47f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443955137791:android:972c5a4dbee99822ca50ca",
+        "android_client_info": {
+          "package_name": "com.varsitycollege.eskomsevc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443955137791-bir34s8ep1tt0ghumoq0affh0epk82os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0eOm8Sm1L7opVWUD27VhzxYTrhDK-ueo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443955137791-bir34s8ep1tt0ghumoq0affh0epk82os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
